@@ -1,5 +1,5 @@
 <p align="left">
-  <samp>Hi, I’m <a href="https://github.com/cavendev">@caven</a>. I'm interested in Web Development. </samp>
+  <samp>Hi, I’m <a href="https://github.com/cavendev">Caven</a>. I'm interested in Web Development. </samp>
 </p>
 <p align="left">
   <samp>
